@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning **Machine Learning and Data Science**
 
-- 📝 I regularly write articles on Machine Learning
+- 📝 I regularly write articles on **Machine Learning**
 
 - 💬 Ask me about **Anything you want :)**
 
