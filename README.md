@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdieh Sadat Benis</h1>
-<h3 align="center">👩🏻‍💻 MSc Computer Science Student | BSc in Electrical & Computer Engineering</h3>
+<h3 align="center">👩🏻‍💻 MSc Computer Science Student</h3>
 
 - 🔬 I’m currently a graduate student at **UBC Okanagan**, working as a **Research Assistant** in the fields of **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Code Understanding**
 
