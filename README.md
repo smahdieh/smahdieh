@@ -3,11 +3,9 @@
 
 - 🔬 I’m currently a graduate student at **UBC Okanagan**, working as a **Research Assistant** in the fields of **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Code Understanding**
 
-- 🧠 My academic background is in **Electrical and Computer Engineering**
+- 🎓 My academic background is in **Electrical and Computer Engineering**
 
-- 💻 Currently learning and working with **transformers, agentic LLMs, and RAG-based systems**
-
-- 📌 I’m particularly interested in **Code Generation, Model Merging, and Evaluation Benchmarks**
+- 🧠 Working in **AI in Software Engineering**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**
 
 - 📫 Reach me at: **MahdiehSadat20@gmail.com**
 
